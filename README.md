@@ -140,7 +140,6 @@ This repository demonstrates proficiency with industry-standard cybersecurity to
 ### Network Security
 - **Wireshark** - Network protocol analyzer
 - **Zenmap (Nmap)** - Network discovery and security auditing
-- **Metasploit** - Penetration testing framework
 
 ### Security Assessment
 - **John the Ripper** - Password cracking tool
@@ -202,7 +201,6 @@ To explore the projects in this repository:
 **IMPORTANT:** All tools and techniques demonstrated in this repository are for educational purposes only. These projects were conducted in controlled, authorized environments as part of academic coursework.
 
 **Ethical Guidelines:**
-- All penetration testing was performed on authorized systems only
 - No unauthorized access was attempted or gained
 - All activities comply with FSU's academic integrity policies
 - Tools should only be used for legitimate security testing with proper authorization
