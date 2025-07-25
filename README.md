@@ -191,7 +191,7 @@ To explore the projects in this repository:
    cd Final_Project/
    
    # View specific lab
-   cd Lab_01_Encryption_Keyloggers/
+   cd Lab_02_Encryption_Keyloggers/
    ```
 
 3. **Review documentation:**
