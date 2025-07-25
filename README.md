@@ -46,7 +46,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** File encryption, secure deletion, malware analysis, ethical considerations
 
-➡️ [View Lab 02](./Lab_02_Encryption_Keyloggers/)
+➡️ [View Lab 02](cybersecurity-labs-fsu/Lab_02_Encryption_Keyloggers/lab_summary.md)
 
 #### Lab 03: WiFi Security & Anonymity Tools
 **Objective:** Analyze wireless network security and explore anonymity technologies
@@ -59,7 +59,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Wireless security assessment, anonymity tools, network privacy, HTTPS analysis
 
-➡️ [View Lab 03](./Lab_03_WiFi_Tor_Anonymity/)
+➡️ [View Lab 03](cybersecurity-labs-fsu/Lab_03_WiFi_Tor_Anonymity/lab_summary.md)
 
 #### Lab 04: Password Security & Data Breaches
 **Objective:** Assess password security and investigate data breach exposure
@@ -72,7 +72,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Password cracking, breach analysis, security awareness, risk assessment
 
-➡️ [View Lab 04](./Lab_04_Password_Cracking_Breaches/)
+➡️ [View Lab 04](cybersecurity-labs-fsu/Lab_04_Passwords_Breaches/lab_summary.md)
 
 #### Lab 05: Network Packet Analysis
 **Objective:** Analyze network traffic and understand firewall behavior
@@ -85,7 +85,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Packet analysis, network protocols, firewall configuration, traffic filtering
 
-➡️ [View Lab 05](./Lab_05_Network_Packet_Analysis/)
+➡️ [View Lab 05](cybersecurity-labs-fsu/Lab_05_Network_Packet_Analysis/lab_summary.md)
 
 #### Lab 06: Log Analysis & Hashing
 **Objective:** Explore system logging and file integrity verification
@@ -98,7 +98,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Log analysis, security baselines, file integrity, hash algorithms
 
-➡️ [View Lab 06](./Lab_06_Log_Analysis_Hashing/)
+➡️ [View Lab 06](cybersecurity-labs-fsu/Lab_06_Log_Analysis_and_Hashing/lab_summary.md)
 
 #### Lab 08: Volume Encryption & Secure Deletion
 **Objective:** Implement full-disk encryption and secure file deletion
@@ -111,7 +111,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Full-disk encryption, secure deletion, data protection, forensic countermeasures
 
-➡️ [View Lab 08](./Lab_08_Volume_Encryption_Secure_Deletion/)
+➡️ [View Lab 08](cybersecurity-labs-fsu/Lab_08_Encryption_and_Deletion/lab_summary.md)
 
 #### Lab 09: Honeypots & Digital Forensics
 **Objective:** Deploy deception technology and perform file recovery
@@ -124,7 +124,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 
 **Skills Demonstrated:** Honeypot deployment, threat analysis, digital forensics, file recovery
 
-➡️ [View Lab 09](./Lab_09_Honeypots_Digital_Forensics/)
+➡️ [View Lab 09](cybersecurity-labs-fsu/Lab_09_Honeypots_and_Recovery/lab_summary.md)
 
 ## 🛠️ Tools & Technologies
 
@@ -216,9 +216,6 @@ To explore the projects in this repository:
 
 ---
 
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### 🙏 Acknowledgments
 
