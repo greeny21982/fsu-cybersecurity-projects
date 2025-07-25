@@ -1,8 +1,6 @@
 # FSU Cybersecurity Projects
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![University](https://img.shields.io/badge/University-Florida%20State%20University-782F40.svg)](https://www.fsu.edu)
-[![Course](https://img.shields.io/badge/Course-LIS%205775-blue.svg)](https://github.com/greeny21982/fsu-cybersecurity-projects)
 
 Welcome to my cybersecurity portfolio, showcasing hands-on labs and a comprehensive final project completed as part of the **LIS 5775 – Organizational Information Security** course at Florida State University. This repository highlights practical experience in encryption, network security, password cracking, anonymity tools, and vulnerability assessment.
 
