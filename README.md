@@ -31,7 +31,7 @@ A comprehensive deep-dive into identifying and mitigating system misconfiguratio
 - Risk assessment and mitigation strategies
 - Documentation of findings and remediation steps
 
-➡️ [View Final Project Summary](./Final_Project/)
+➡️ [View Final Project Summary](cybersecurity-labs-fsu/Final_Project/final_project_summary.md)
 
 ### 🧪 Laboratory Exercises
 
