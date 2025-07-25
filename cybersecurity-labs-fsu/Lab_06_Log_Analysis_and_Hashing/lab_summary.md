@@ -26,7 +26,7 @@
 ## 🔐 Part 2: NIST 800-171 & Security Baselines
 
 ### Reference:
-- [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/spurity controls for protecting Controlled Unclassified Information (CUI).
+- [NIST SP 800-171 Rev. 3](https://csrc.nist.gov/pubs/sp/800/171/r3/final) controls for protecting Controlled Unclassified Information (CUI).
 - Emphasizes access control, audit logging, incident response, and system integrity.
 - macOS security baselines can be aligned with NIST standards using tools like GitHub’s `macos_security` repo.
 
