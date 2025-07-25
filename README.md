@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Labs & Final Project – Jonah McKitty
 
-Welcome to my cybersecurity portfolio, showcasing hands-on labs and a comprehensive final project completed as part of the **LIS 5775 – Cybersecurity Fundamentals** course at Florida State University. This repository highlights practical experience in encryption, network security, password cracking, anonymity tools, and vulnerability assessment.
+Welcome to my cybersecurity portfolio, showcasing hands-on labs and a comprehensive final project completed as part of the **LIS 5775 – Organizational Information Security** course at Florida State University. This repository highlights practical experience in encryption, network security, password cracking, anonymity tools, and vulnerability assessment.
 
 ---
 
