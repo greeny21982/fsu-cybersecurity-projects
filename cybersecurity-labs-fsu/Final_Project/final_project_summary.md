@@ -164,5 +164,5 @@ This comprehensive analysis demonstrated that system misconfigurations pose sign
 ---
 
 **Research Environment**: SECNET Cloud Infrastructure (Flat network with pfsense firewall/router, Hyper-V, Linux, Windows, and Palo Alto VMs)  
-**Project Duration**: Academic Semester 2024  
+**Project Duration**: Academic Semester Spring 2024  
 **Methodology**: Vulnerability assessment and security analysis using open-source tools in authorized academic lab environment
